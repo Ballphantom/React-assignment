@@ -1,0 +1,18 @@
+.form-navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+
+    & .home-btn{
+        background-color: white;
+        height: 40px;
+        border-radius: 10px;
+        transition: all 0.2s ease-in-out; 
+        margin-top: 20px;
+        border: 1px solid #a8a8a8;
+        &:hover {
+            background-color: #40a9ff;
+        }
+    }
+}

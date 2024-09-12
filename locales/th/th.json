@@ -1,0 +1,59 @@
+{
+    "welcome": {
+        "message": "ยินดีต้อนรับสู่ React และ react-i18next"
+    },
+    "tests": {
+        "test1": {
+            "title": "ทดสอบ 1",
+            "description": "รูปแบบ & สไตล์"
+        },
+        "test2": {
+            "title": "ทดสอบ 2",
+            "description": "เชื่อมต่อ API"
+        },
+        "test3": {
+            "title": "ทดสอบ 3",
+            "description": "ฟอร์ม & ตาราง"
+        }
+    },
+    "moves": {
+        "shave": "เลื่อนรูปแบบ",
+        "position": "เปลี่ยนตำแหน่ง"
+    },
+    "table": {
+        "deleteSelected": "ลบที่เลือก",
+        "prev": "ก่อนหน้า",
+        "next": "ถัดไป",
+        "name": "ชื่อ",
+        "gender": "เพศ",
+        "mobilePhone": "โทรศัพท์มือถือ",
+        "nationality": "สัญชาติ",
+        "manage": "จัดการ",
+        "edit": "แก้ไข",
+        "delete": "ลบ",
+        "selectAll": "เลือกทั้งหมด"
+    },
+    "form": {
+        "title": "คำนำหน้า",
+        "firstname": "ชื่อ",
+        "lastname": "นามสกุล",
+        "birthday": "วันเกิด",
+        "nationality": "สัญชาติ",
+        "citizenID": "หมายเลขบัตรประชาชน",
+        "gender": "เพศ",
+        "mobilePhone": "โทรศัพท์มือถือ",
+        "passportNo": "หมายเลขหนังสือเดินทาง",
+        "expectedSalary": "เงินเดือนที่คาดหวัง",
+        "update": "อัปเดต",
+        "submit": "ส่ง",
+        "reset": "รีเซ็ต",
+        "male": "ชาย",
+        "female": "หญิง",
+        "unisex": "ยูนิเซ็กซ์",
+        "mr": "นาย",
+        "mrs": "นาง",
+        "miss": "นางสาว",
+        "other": "อื่นๆ",
+        "home": "หน้าหลัก"
+    }
+}

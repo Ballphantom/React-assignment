@@ -1,0 +1,59 @@
+{
+    "welcome": {
+        "message": "Welcome to React and react-i18next"
+    },
+    "tests": {
+        "test1": {
+            "title": "Test 1",
+            "description": "Layout & Style"
+        },
+        "test2": {
+            "title": "Test 2",
+            "description": "Connecting API"
+        },
+        "test3": {
+            "title": "Test 3",
+            "description": "Form & Table"
+        }
+    },
+    "moves": {
+        "shave": "Move shave",
+        "position": "Move position"
+    },
+    "table": {
+        "deleteSelected": "Delete Selected",
+        "prev": "Prev",
+        "next": "Next",
+        "name": "Name",
+        "gender": "Gender",
+        "mobilePhone": "Mobile Phone",
+        "nationality": "Nationality",
+        "manage": "Manage",
+        "edit": "Edit",
+        "delete": "Delete",
+        "selectAll": "Select All"
+    },
+    "form": {
+        "title": "Title",
+        "firstname": "Firstname",
+        "lastname": "Lastname",
+        "birthday": "Birthday",
+        "nationality": "Nationality",
+        "citizenID": "Citizen ID",
+        "gender": "Gender",
+        "mobilePhone": "Mobile Phone",
+        "passportNo": "Passport No.",
+        "expectedSalary": "Expected Salary",
+        "update": "Update",
+        "submit": "Submit",
+        "reset": "Reset",
+        "male": "Male",
+        "female": "Female",
+        "unisex": "Unisex",
+        "mr": "Mr.",
+        "mrs": "Mrs.",
+        "miss": "Miss",
+        "other": "Other",
+        "home": "Home"
+    }
+}

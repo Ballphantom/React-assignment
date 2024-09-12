@@ -1,0 +1,32 @@
+.menu-dropdown {
+    width: 60px;
+
+    .ant-menu-item {
+        .menu-item {
+            display: flex;
+            align-items: center;
+            padding: 8px;
+            cursor: pointer;
+
+            &.active {
+                background-color: #e0e7ff;
+                color: #1e40af;
+            }
+        }
+    }
+}
+
+.menu-trigger {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    padding: 4px 8px;
+    background-color: white;
+    border-radius: 4px;
+
+    .icon-large {
+        width: 32px;
+        height: 32px;
+        margin-right: 8px;
+    }
+}

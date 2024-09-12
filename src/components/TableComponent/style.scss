@@ -1,0 +1,12 @@
+.table-container {
+  .table-controls {
+    display: flex;
+    justify-content: space-between;
+
+    margin-bottom: 16px;
+    
+    .ant-btn {
+      margin-right: 10px;
+    }
+  }
+}
